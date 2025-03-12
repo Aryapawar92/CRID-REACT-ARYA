@@ -3,84 +3,72 @@
     "id": 1,
     "name": "Gayatri Gunjal",
     "role": "President",
-    "image": "/images/gayatri.jpg",
-    "Linkedin": ""
+    "image": "/images/gayatri.jpg"
   },
   {
     "id": 2,
     "name": "Sarib Siddiqui",
     "role": "Managing Director",
-    "image": "/images/sarib.JPG",
-    "Linkedin": ""
+    "image": "/images/sarib.JPG"
   },
   {
     "id": 3,
     "name": "Pranay Khuspe",
     "role": "General Secretary",
-    "image": "/images/pranay.jpg",
-    "Linkedin": ""
+    "image": "/images/pranay.jpg"
   },
   {
     "id": 4,
     "name": "Saad Shaikh",
     "role": "Vice - President",
-    "image": "/images/saad.jpg",
-    "Linkedin": ""
+    "image": "/images/saad.jpg"
   },
   {
     "id": 5,
     "name": "Gargi Fadtare",
     "role": "Vice - President",
-    "image": "/images/gargi.JPG",
-    "Linkedin": ""
+    "image": "/images/gargi.JPG"
   },
   {
     "id": 6,
     "name": "Riya Memdani",
     "role": "Treasurer",
-    "image": "/images/ria.jpg",
-    "Linkedin": ""
+    "image": "/images/ria.jpg"
   },
   {
     "id": 7,
     "name": "Arya Pawar",
     "role": "Web Secretary",
-    "image": "/images/arya.jpg",
-    "Linkedin": ""
+    "image": "/images/arya.jpg"
   },
   {
     "id": 8,
     "name": "Antariksha Dhanure",
     "role": "Publicity Secretary",
-    "image": "/images/ant.jpg",
-    "Linkedin": ""
+    "image": "/images/ant.jpg"
   },
   {
     "id": 9,
     "name": "Sidharth Salian",
     "role": "Operations Secretary",
-    "image": "/images/sid.JPG",
-    "Linkedin": ""
+    "image": "/images/sid.JPG"
   },
   {
     "id": 10,
     "name": "Zia Mohamad",
     "role": "Marketing Secretary",
-    "image": "/images/zia.jpg",
-    "Linkedin": "https://www.linkedin.com/in/mohmad-zia-5727212b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+    "image": "/images/zia.jpg"
   },
   {
     "id": 11,
     "name": "Pruthvi ",
     "role": "DC Secretary",
-    "image": "/images/pruthvi.jpg",
-    "Linkedin": ""
+    "image": "/images/pruthvi.jpg"
   },
   {
     "id": 12,
     "name": "Sumruddhi Kate",
     "role": "Content Secretary",
-    "image": "/images/sam.jpg",
-    "Linkedin": ""
+    "image": "/images/sam.jpg"
   }
 ]

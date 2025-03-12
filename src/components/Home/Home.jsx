@@ -123,9 +123,9 @@ function Home() {
               alt="Magazine Cover"
               className="max-w-md w-full h-fit rounded-lg shadow-lg"
             />
-            <div className="mt-4 text-white font-space justify-center">
+            {/* <div className="mt-4 text-white font-space justify-center">
               Download PDF
-            </div>
+            </div> */}
           </div>
           <div
             onMouseEnter={() => handleMouseEnter()}
@@ -140,9 +140,9 @@ function Home() {
               alt="Second Magazine Cover"
               className="max-w-md w-full rounded-lg shadow-lg"
             />
-            <div className="mt-4 text-white font-space justify-center">
+            {/* <div className="mt-4 text-white font-space justify-center">
               Download PDF
-            </div>
+            </div> */}
           </div>
         </div>
         <h1 className="text-white text-4xl font-bold font-redHat py-2 my-2">
