@@ -24,11 +24,10 @@ function About() {
             visible ? "opacity-100" : "opacity-0"
           }`}
         >
-          CRID is a comprehensive platform dedicated to fostering community and
-          innovation through research and development. Our mission is to bridge
-          the gap between academia and industry, facilitating groundbreaking
-          projects and fostering collaborative growth. Join us in our pursuit of
-          excellence and be a part of the future of innovation.
+          At CRID, we believe data science can transform intelligence and drive
+          positive change 🚀. We bring together experts and enthusiasts to share
+          knowledge and ideas, advancing the field and empowering informed
+          decision-making 💡.
         </p>
       </div>
 

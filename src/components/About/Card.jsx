@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 
 function Card({ item }) {
   return (
-    <div className="relative flex flex-col text-gray-700 bg-white shadow-md rounded-xl w-80 border border-white">
-      <div className="relative mx-4 mt-4 overflow-hidden text-gray-700 bg-white shadow-lg rounded-xl h-64">
+    <div className="relative flex flex-col text-gray-700 bg-black shadow-md rounded-xl w-80">
+      <div className="relative mx-4 mt-4 overflow-hidden text-gray-700 bg-black shadow-lg rounded-xl h-64">
         <img
           src={item.image}
           alt="profile-picture"
@@ -13,10 +13,10 @@ function Card({ item }) {
         />
       </div>
       <div className="p-4 text-center">
-        <h4 className="block mb-2 font-sans text-2xl font-semibold leading-snug tracking-normal text-blue-gray-900">
+        <h4 className="block mb-2 font-sans text-2xl font-semibold leading-snug tracking-normal text-white">
           {item.name}
         </h4>
-        <p className="block font-sans text-base font-medium leading-relaxed  text-black bg-gradient-to-tr from-blue-gray-600 to-blue-gray-400">
+        <p className="block font-sans text-base font-medium leading-relaxed  text-white bg-gradient-to-tr from-blue-gray-600 to-blue-gray-400">
           {item.role}
         </p>
       </div>

@@ -52,12 +52,15 @@ function Home() {
               CRID
             </h1>
             <p className="text-lg sm:text-xl text-white mb-8 font-space">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae at
-              temporibus consequuntur facere neque? Ut laudantium voluptate odit
-              dolorem amet deserunt quas quidem assumenda accusamus eius numquam
-              harum nobis aperiam magni fuga et, perspiciatis eligendi dolore
-              dicta minus corporis? Sunt nesciunt illum nemo recusandae harum
-              placeat nam nihil quidem quibusdam.
+              The Center for Reforming Intelligence through Data Science [CRID]
+              is a vibrant community ⭐ that fosters innovation and growth. We
+              bring together experts and enthusiasts to share knowledge and
+              ideas through engaging speaker sessions and dynamic events. Our
+              community is a hub for learning, collaboration, and networking,
+              empowering individuals to harness the power of data-driven
+              insights 🔍. By sharing experiences and best practices, we drive
+              collective progress and shape the future of intelligent
+              decision-making 🚀.
             </p>
             <div className="flex justify-center lg:justify-start text-white">
               <button
@@ -142,6 +145,18 @@ function Home() {
             </div>
           </div>
         </div>
+        <h1 className="text-white text-4xl font-bold font-redHat py-2 my-2">
+          Our
+          <span className="font-redHat"> Magazines</span>
+        </h1>
+        <p className="mt-4 text-white text-lg max-w-xl mx-auto text-justify font-space">
+          The SCIPIA editions cover a wide range of topics, from India’s rich
+          historical resilience and space achievements like Chandrayaan-3's moon
+          landing, to the future of AI, robotics, and automation. They emphasize
+          professionalism, responsible engineering, and the cultural influence
+          of anime globally. Together, they inspire curiosity and growth, aiming
+          to educate and engage youth in shaping the future.
+        </p>
       </div>
       <Footer />
     </div>
