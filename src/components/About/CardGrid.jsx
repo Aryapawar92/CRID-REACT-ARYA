@@ -5,7 +5,7 @@ function CardGrid() {
   const [teamMembers, setTeamMembers] = useState([]);
 
   useEffect(() => {
-    fetch("/src/components/About/members.json")
+    fetch("/members.json")
       .then((response) => response.json())
       .then((data) => setTeamMembers(data))
       .catch((error) => console.error("Error fetching data:", error));
