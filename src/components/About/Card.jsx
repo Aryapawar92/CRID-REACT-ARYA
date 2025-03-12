@@ -1,4 +1,6 @@
+import { Instagram, Linkedin } from "lucide-react";
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Card({ item }) {
   return (
@@ -18,14 +20,14 @@ function Card({ item }) {
           {item.role}
         </p>
       </div>
-      {/* <div className="flex justify-center p-4 pt-2 gap-5">
+      <div className="flex justify-center p-4 pt-2 gap-5">
         <Link
           to={item.Linkedin}
           className="block text-xl font-normal leading-relaxed text-blue-600 hover:text-blue-800"
         >
           <Linkedin />
         </Link>
-      </div> */}
+      </div>
     </div>
   );
 }
