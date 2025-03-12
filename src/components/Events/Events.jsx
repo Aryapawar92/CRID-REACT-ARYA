@@ -20,19 +20,25 @@ const eventsData = [
     id: 3,
     title: "DATA SCIENCE & BLOCKCHAIN",
     description:
-      "Insightful seminar on Data Science,delving into the latest trends, tools,and applications in the field and Blockchain Application Development werealso held, allowing students to explorenew technologies and develop expertise in these rapidly evolving fields.",
+      "Insightful seminar on Data Science,delving into the latest trends, tools,and applications in the field and Blockchain Application Development werealso held, allowing students to explorenew technologies and develop expertise in these rapidly evolving fields.⭐",
   },
   {
     id: 4,
     title: "TECH FIESTA",
     description:
-      "An event that provided a platform for students to showcase their innovative project ideas and start up pitches.This event encouraged creativity and entrepreneurship, offering participants the opportunity to present their concepts to a broader audience and receive valuable feedback from experts in the field.",
+      "An event that provided a platform for students to showcase their innovative project ideas and start up pitches.This event encouraged creativity and entrepreneurship, offering participants the opportunity to present their concepts to a broader audience and receive valuable feedback from experts in the field. 🚀",
   },
   {
     id: 5,
     title: "ANVAY",
     description:
-      "Anvay24, the flagship event organized by IIC and E-cell in the partnership with CRID offered a dynamic platform for students from the Department of AIDS.This event facilitated their active engagement in panel discussions with start up mentors and entrepreneurs.",
+      "Anvay24, the flagship event organized by IIC and E-cell in the partnership with CRID offered a dynamic platform for students from the Department of AIDS.This event facilitated their active engagement in panel discussions with start up mentors and entrepreneurs.⭐",
+  },
+  {
+    id: 6,
+    title: "Cultural Events",
+    description:
+      "Beyond the realm of technology, the team played a crucial role in bringing the community together through cultural and patriotic events.🚀",
   },
 ];
 
